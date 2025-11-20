@@ -1,0 +1,6 @@
+﻿functions-framework==3.*
+google-cloud-storage==2.13.0
+google-cloud-pubsub==2.19.0
+flask==2.3.3
+requests==2.31.0
+pillow==10.0.1

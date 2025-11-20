@@ -1,0 +1,19 @@
+﻿gcp:
+  project: "prj-botlabs-dev"
+  region: "us-central1"
+
+whatsapp:
+  verify_token: "aiasigna_verify_123"
+  access_token: "{{WHATSAPP_ACCESS_TOKEN}}"  
+  phone_number_id: "{{WHATSAPP_PHONE_NUMBER_ID}}"  
+
+storage:
+  bucket_name: "prj-botlabs-dev-aiasigna-images"
+
+pubsub:
+  processing_topic: "aiasigna-image-processing"
+
+services:
+  webhook_url: "https://webhook-service-xyz.a.run.app"
+  processing_url: "https://processing-service-xyz.a.run.app" 
+  response_url: "https://response-service-xyz.a.run.app"

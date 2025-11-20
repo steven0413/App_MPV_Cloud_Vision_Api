@@ -1,0 +1,3 @@
+﻿functions-framework==3.*
+google-cloud-firestore==2.13.0
+requests==2.31.0
