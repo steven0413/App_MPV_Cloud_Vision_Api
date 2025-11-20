@@ -23,3 +23,5 @@ Sistema de pesos dinámicos
 Arquitectura serverless escalable
 
 Integración WhatsApp Business API
+
+<img width="1140" height="1054" alt="image" src="https://github.com/user-attachments/assets/46ed405b-d941-4309-aa96-86591438e56f" />
